@@ -1,0 +1,35 @@
+body {
+    background-color: #FFB6C1 ;
+}
+
+h1 {
+	font-family: "Courier New";
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+}
+
+p {
+    font-family: "Courier New";
+    font-weight: bold;
+    font-size: 20px;
+    text-align: left;
+
+}
+
+/*#wrapperDiv{
+    width: 900px;
+    height: 800px;
+    border: solid black 3px;
+    background-color: white;
+    margin: auto;
+}*/
+
+#headerDiv{
+    width: 900px;
+    height:  600px;
+    border: solid black 3px;
+    background-color: white;
+    margin: auto;
+}

@@ -3,6 +3,7 @@ body {
     background-color: #ffcce6 ;
      font-family: "Trebuchet MS", Helvetica, sans-serif;
       background-image: url("starz.gif");
+
 }
 
 
@@ -58,6 +59,7 @@ body {
 .buttonDiv{
     width:110px;
     height:11px;
+
     border: solid black 1px;
     float:left;
     background-color: white;
@@ -65,7 +67,7 @@ body {
     margin:3px;
     margin-left:20px;
     text-align:center;
-
+    
 }
 
 .GeneratedMarquee {
@@ -92,4 +94,5 @@ p { margin : 0; }
     width: 530px;
     height: 30px;
     background-color: white;
+    
 }
